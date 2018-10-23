@@ -1,6 +1,6 @@
 <template>
   <div>
-    HOME
+    HOME test
   </div>
 </template>
 <script>
