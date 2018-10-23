@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('./iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-all:before { content: "\e696"; }
+
+.icon-back:before { content: "\e697"; }
+
+.icon-cart:before { content: "\e698"; }
+
+.icon-category:before { content: "\e699"; }
+
+.icon-close:before { content: "\e69a"; }
+
+.icon-comments:before { content: "\e69b"; }
+
+.icon-delete:before { content: "\e69d"; }
+
+.icon-edit:before { content: "\e69e"; }
+
+.icon-email:before { content: "\e69f"; }
+
+.icon-favorite:before { content: "\e6a0"; }
+
+.icon-form:before { content: "\e6a2"; }
+
+.icon-help:before { content: "\e6a3"; }
+
+.icon-information:before { content: "\e6a4"; }
+
+.icon-less:before { content: "\e6a5"; }
+
+.icon-moreunfold:before { content: "\e6a6"; }
+
+.icon-more:before { content: "\e6a7"; }
+
+.icon-pic:before { content: "\e6a8"; }
+
+.icon-refresh:before { content: "\e6aa"; }
+
+.icon-rfq:before { content: "\e6ab"; }
+
+.icon-search:before { content: "\e6ac"; }
+
+.icon-selected:before { content: "\e6ad"; }
+
+.icon-set:before { content: "\e6ae"; }
+
+.icon-smile:before { content: "\e6af"; }
+
+.icon-success:before { content: "\e6b1"; }
+
+.icon-viewlist:before { content: "\e6b5"; }
+
+.icon-warning:before { content: "\e6b6"; }
+
+.icon-account:before { content: "\e6b8"; }
+
+.icon-add:before { content: "\e6b9"; }
+
+.icon-discount:before { content: "\e6c5"; }
+
+.icon-box:before { content: "\e6cb"; }
+
+.icon-process:before { content: "\e6ce"; }
+
+.icon-similarproduct:before { content: "\e6f6"; }
+
+.icon-dollar:before { content: "\e702"; }
+
+.icon-gerenzhongxin:before { content: "\e70b"; }
+
+.icon-jifen:before { content: "\e70c"; }
+
+.icon-skip:before { content: "\e718"; }
+
+.icon-share:before { content: "\e71d"; }
+
+.icon-phone:before { content: "\e725"; }
+
+.icon-hot:before { content: "\e756"; }
+
+.icon-data:before { content: "\e757"; }
+
+.icon-trade:before { content: "\e758"; }
+
+.icon-add-account:before { content: "\e87a"; }
+
