@@ -1,5 +1,5 @@
 <template>
-  <div class="el-header">
+  <div>
     <el-menu
       :default-active="activeIndex2"
       class="el-menu-demo"
@@ -28,21 +28,21 @@
 </template>
 <script>
 export default {
-   data() {
-      return {
-        activeIndex: '1',
-        activeIndex2: '1'
-      };
-    },
-    methods: {
-      handleSelect(key, keyPath) {
-        console.log(key, keyPath);
-      }
+  data() {
+    return {
+      activeIndex: '1',
+      activeIndex2: '1'
     }
+  },
+  methods: {
+    handleSelect(key, keyPath) {
+      console.log(key, keyPath)
+    }
+  }
 }
 </script>
 <style>
-  .el-header{
-    width: 100%;
-  }
+.el-menu{
+  padding-left: 200px;
+}
 </style>
